@@ -31,10 +31,10 @@ npx http-server -p 8080 -c-1
 浏览器打开：
 
 ```
-http://localhost:8080/moon.html
+http://localhost:8080/index.html
 ```
 
-> ⚠️ 不能直接双击 `moon.html`，必须通过 HTTP 服务器访问（ES Module + fetch 限制）。
+> ⚠️ 不能直接双击 `index.html`，必须通过 HTTP 服务器访问（ES Module + fetch 限制）。
 
 ## 🌐 在线预览
 
